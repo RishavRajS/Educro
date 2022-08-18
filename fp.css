@@ -1,0 +1,82 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    padding-left: 100;
+    margin-top: -50px;
+    letter-spacing: 2px;
+    background-image: url("First Page.png");
+    background-size: 1300px 650px;
+}
+.dp{
+    margin-top: -20px;
+    margin-right: 800px;
+}
+.topnav{
+    margin-left: 780px;
+    margin-top: 70px;
+}
+a{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+a#link:link{
+    text-decoration: none;
+    color: white;
+ 
+}
+a#link:visited{
+    text-decoration: none;
+    color: white;
+}
+.empowering{
+    text-align: center;
+    margin-top: 50px;
+}
+.signup{
+    text-align: center;
+    margin-top: 300px;
+    margin-left: 400px;
+    position: absolute;
+}
+button{
+    margin-top: 300px;
+    margin-left: 700px;
+    border: 0px;
+    width: 100px;
+    height: 30px;
+    border-radius: 7px;
+    background-color: #f7c184;
+    color: black;
+}
+.staff{
+    border-radius: 20px;
+    background: #a42324;
+    color: black;
+    margin-top: 20px;
+    margin-left: 300px;
+    width: 150px;
+    height: 30px;
+    border: 0px;
+}
+.student{
+    border-radius: 20px;
+    background: #253c7a;
+    color: black;
+    margin-top: -50px;
+    margin-left: 700px;
+    width: 170px;
+    height: 30px;
+    border: 0px;
+}
+.home{
+    padding-right: 20px;
+}
+.contact{
+    padding-left: 20px;
+}
+.about{
+    padding-left: 20px;
+    padding-right: 20px;
+}

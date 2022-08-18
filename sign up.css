@@ -1,0 +1,160 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    padding-left: 100;
+    margin-top: -50px;
+    letter-spacing: 2px;
+    background-image: url("First Page.png");
+    background-size: 1300px 650px;
+}
+.head{
+    text-align: center;
+    margin-top: 100px;
+}
+.dp{
+    margin-top: -20px;
+}
+a{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+.topnav{
+    margin-left: 780px;
+    margin-top: 70px;
+
+}
+.home{
+    padding-right: 20px;
+}
+.contact{
+    padding-left: 20px;
+}
+.about{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.signup {
+    border-radius: 5px;
+    background: #f7c184;
+    color: black;
+    margin-top: 20px;
+    margin-left: 200px;
+    width: 90px;
+    height: 25px;
+    border: 0px;
+  }
+.form-name{
+    margin-left: 20px;
+}
+.form-email{
+    margin-left: 20px;
+}
+.form-institute{
+    margin-left: -111px;
+}
+.form-contact{
+    margin-left: -22px;
+}
+.form-password{
+    margin-left: -20px;
+}
+.form-confirm-password{
+    margin-left: -100px;
+}
+.confirm-password{
+    margin-right: 15px;
+}
+.password{
+    margin-right: 15px;
+}
+.contact{
+    margin-right: 15px;
+}
+.name{
+    margin-right: 15px;
+}
+.email{
+    margin-right: 15px;
+}
+.institution{
+    margin-right: 15px;
+}
+#institution{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 20px;
+    border: 0px;
+}
+#contact{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 20px;
+    border: 0px;
+}
+#email{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 20px;
+    border: 0px;
+}
+#name{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 25px;
+    border: 0px;
+}
+#confirm-password{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 25px;
+    border: 0px;
+}
+#password{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 25px;
+    border: 0px;
+}
+#name{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 20px;
+    border: 0px;
+}
+.form{
+    margin-left: 400px;
+}
+.NA{
+    margin-left: 400px;
+    font-weight: 520;
+}

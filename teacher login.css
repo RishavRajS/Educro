@@ -1,0 +1,113 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    padding-left: 100;
+    margin-top: -50px;
+    letter-spacing: 2px;
+    background-image: url("First Page.png");
+    background-size: 1300px 650px;
+}
+.dp{
+    margin-top: -20px;
+}
+a{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+.topnav{
+    margin-left: 780px;
+    margin-top: 70px;
+
+}
+.home{
+    padding-right: 20px;
+}
+.contact{
+    padding-left: 20px;
+}
+.about{
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.Login {
+    border-radius: 5px;
+    background: hsl(204, 100%, 76%);
+    color: black;
+    margin-top: 20px;
+    margin-left: 165px;
+    width: 100px;
+    height: 30px;
+    border: 0px;
+  }
+.form-name{
+    margin-left: 20px;
+}
+.form-email{
+    margin-left: 20px;
+}
+.form-code{
+    margin-left: 20px;
+}
+.name{
+    margin-right: 15px;
+}
+.email{
+    margin-right: 15px;
+}
+.code{
+    margin-right: 15px;
+}
+#email{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 20px;
+    border: 0px;
+}
+#code{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 25px;
+    border: 0px;
+}
+#name{
+    background-color: #eae5e5;
+    color: white;
+    font-size: x-small;
+    border-radius: 3px;
+    width: 170px;
+    height: 20px;
+    padding-left: 20px;
+    border: 0px;
+}
+h1{
+    margin-left: 400px;
+    margin-top: 100px;
+}
+.form{
+    margin-left: 400px;
+}
+.NA{
+    margin-left: 400px;
+    font-weight: 520;
+}
+.Sign{
+    margin-left: 600px;
+    margin-top: -44px;
+    border: 0px;
+    border-radius: 7px;
+    background-color: #f7c184;
+    color: black;
+    width: 70px;
+    height: 20px;
+    font-size: 12px;
+}

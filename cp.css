@@ -1,0 +1,130 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:medium;
+    letter-spacing: 2px;
+}
+.vl {
+    border-left: 1px solid gray;
+    height: 600px;
+    margin-left: 280px;
+    margin-top: -10px;
+  }
+.dot {
+    height: 25px;
+    width: 25px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -60px;
+    margin-top: 10px;
+  }
+  .dotschool{
+    height: 40px;
+    width: 40px;
+    background-color: #bbb;
+    border-radius: 50%;
+    margin-top: -10px;
+    position: absolute;
+    margin-left: 500px;
+  }
+  #img{
+      float: right;
+      margin-top: -50px;
+      margin-right: 150px;
+  }
+  .welcome{
+    text-align: center;
+    margin-top: -500px;
+  }
+  .bigdot{
+    height: 40px;
+    width: 40px;
+    background-color: #bbb;
+    border-radius: 50%;
+    display: inline-block;
+    margin-left: -50px;
+    margin-top: 60px;
+  }
+  .events{
+    border-radius: 10px;
+    background: #ff8455;
+    margin-right: 440px;
+    float: right;
+    margin-top: -70px;
+    width: 150px;
+    height: 75px;
+  }
+  .placements{
+    border-radius: 10px;
+    background: #ff8455;
+    margin-right: -400px;
+    float: right;
+    margin-top: -70px;
+    width: 150px;
+    height: 75px;
+  }
+  .certified{
+    border-radius: 10px;
+    background: #ff8455;
+    margin-left: 400px; 
+    margin-top: 130px;
+    width: 150px;
+    height: 75px; 
+  }
+  #name{
+      margin-top: -35px;
+  }
+  #Profile{
+    margin-top: -20px;
+}
+#Assignments{
+    margin-top: -20px;
+}
+#Marks{
+    margin-top: -20px;
+}
+#Notes{
+    margin-top: -20px;
+}
+#Quiz{
+    margin-top: -20px;
+}
+#Interactions{
+    margin-top: -20px;
+}
+#Settings{
+    margin-top: -20px;
+}
+.dp{
+    padding-left: 100;
+    margin-right: 800px;
+    margin-top: 60px;
+}
+.mainnav{
+    float: left;
+    margin-top: -60px;
+    margin-left: 90px;
+}
+.topnav{
+    padding-left: 100;
+    margin-left: 780px;
+    margin-top: 20px;
+    margin-bottom: -80px;
+}
+a{
+    color: black;
+}
+a:link{
+    text-decoration: none;
+}
+
+.home{
+    padding-right: 20px;
+}
+.contact{
+    padding-left: 20px;
+}
+.about{
+    padding-left: 20px;
+    padding-right: 20px;
+}
